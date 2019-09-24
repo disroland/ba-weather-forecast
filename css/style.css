@@ -1,0 +1,28 @@
+
+* {box-sizing: border-box; font-family:Lucida Grande, sans-serif}
+ul {list-style-type: none;font-size:0;}
+a{text-decoration: none; color: white;}
+body {display:block; margin:0; background-color: #AFEEEE; padding-top: 50px;}
+.frame{display:block; margin:auto; background-color:#3398cc; height: 600px; width: 60%; border: solid 20px #4682B4;}
+#first-string{padding-top: 20px; padding-bottom: 20px; color:white;text-shadow: darkgrey 1px 1px 1px;}
+#last-string{padding-top: 10px; color:white; text-shadow: darkgrey 1px 1px 1px;}
+.weather-block {display: block; height: 100%; width: 100% min-width:400px; ;margin:0;padding:0;vertical-align: middle;} 
+.weather-block-unit {border:solid 2px white; height: 25%; display: inline-block; margin:0; padding-top:25px; font-size: 15px; text-align: center; vertical-align: middle; opacity:1; color:white; transition: 0.6s; text-shadow: black 1px 1px 1px;}
+.weather-block-unit:hover{opacity:0.6; border-top: silver solid 2px;border-bottom: silver solid 2px;}
+.m-div{height: 400px; width: 60%; margin:auto;}
+.single {width: 25%;}
+.double {width: 50%;}
+.full {width: 100%;}
+#li1{background-color:#3398cc;}
+#li2{background-color:#32cccc;}
+#li3{background-color:#986699;}
+#li4{background-color:#c24847;}
+#li5{background-color:#e2664a;}
+#li6{background-color: #ffcc66;}
+#li7{background-color: #99cc99;}
+#li8{background-color: #66999a;}
+#li9{background-color: #cc6698;}
+#li10{background-color: #339967;}
+#li11{background-color: #666698;}
+
+
